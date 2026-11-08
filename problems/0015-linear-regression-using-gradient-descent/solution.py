@@ -20,12 +20,8 @@ def linear_regression_gradient_descent(X: np.ndarray, y: np.ndarray, alpha: floa
     
     for i in range(iterations):
         H = X @ theta
-        # print("H", H)
-        # print("y", y)
         gradient = ((H - y).T @ X)*alpha / m
-        # print("gradient", gradient)
         theta = theta - gradient
-        # print("theta", theta)
     
 
     return theta.flatten()
