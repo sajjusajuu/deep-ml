@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:27:57.032Z",
+  "generated_at": "2026-11-14T06:38:59.165Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -52,6 +52,19 @@
       "last_pushed_at": "2026-11-10T13:27:56.459Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:261": {
+      "kind": "problem",
+      "id": "261",
+      "title": "Gaussian Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/261",
+      "path": "problems/0261-gaussian-naive-bayes-classifier",
+      "first_solved_at": "2026-11-14T06:38:58.461Z",
+      "last_pushed_at": "2026-11-14T06:38:58.461Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
