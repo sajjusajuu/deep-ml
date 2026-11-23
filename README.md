@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-11-14 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-11-10 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-11-19 | [solution](problems/0020-decision-tree-learning) |
+| [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-11-23 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-09 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ---
