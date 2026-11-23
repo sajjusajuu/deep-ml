@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:14:00.140Z",
+  "generated_at": "2026-11-23T14:21:42.334Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -88,9 +88,9 @@
       "url": "https://www.deep-ml.com/problems/21",
       "path": "problems/0021-pegasos-kernel-svm-implementation",
       "first_solved_at": "2026-11-23T13:41:53.956Z",
-      "last_pushed_at": "2026-11-23T14:13:59.004Z",
+      "last_pushed_at": "2026-11-23T14:21:41.146Z",
       "language": "python",
-      "lines": 37
+      "lines": 32
     }
   }
 }
