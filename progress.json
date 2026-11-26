@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:48:51.831Z",
+  "generated_at": "2026-11-26T22:01:22.309Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -104,6 +104,19 @@
       "last_pushed_at": "2026-11-25T13:48:50.644Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:364": {
+      "kind": "problem",
+      "id": "364",
+      "title": "Implement Hierarchical Clustering (Agglomerative)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/364",
+      "path": "problems/0364-implement-hierarchical-clustering-agglomerative",
+      "first_solved_at": "2026-11-26T22:01:21.552Z",
+      "last_pushed_at": "2026-11-26T22:01:21.552Z",
+      "language": "python",
+      "lines": 81
     }
   }
 }
